@@ -5,3 +5,5 @@ It involves training models on large amounts of bilingual data and using advance
 Machine translation has made significant advancements in recent years, with systems capable of translating between multiple languages. 
 It has various applications, such as facilitating communication, enabling access to foreign language content, and supporting global business operations.
 
+
+model_link: https://drive.google.com/file/d/1ekvuZYylKFu3GEoZzX6DtUZwQb9tEwiy/view?usp=sharing
