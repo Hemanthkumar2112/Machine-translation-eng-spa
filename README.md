@@ -7,3 +7,5 @@ It has various applications, such as facilitating communication, enabling access
 
 
 model_link: https://drive.google.com/file/d/1ekvuZYylKFu3GEoZzX6DtUZwQb9tEwiy/view?usp=sharing
+
+refs: https://keras.io/examples/nlp/neural_machine_translation_with_transformer/
